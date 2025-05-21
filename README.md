@@ -87,3 +87,8 @@ Make sure the following are installed on your computer:
 
 [![Demo Video](https://github.com/Swetha1802/RentHive/blob/main/static/uploads/thumbnail.png)](https://youtu.be/apcF4ri3PKI)
 
+## 👥 Contributors
+
+Swetha Shankara Raman
+
+Sai Rashwant
